@@ -1,8 +1,8 @@
 """
 Name: Étoile
 Name Note: star in French
-Description:
-Sanrio Character: Kiki & Lala from Little Twin Stars
+Description: A normal sheep based on the Little Twin Stars Franchise
+Sanrio Character: Kiki & Lala
 Personality: Normal
 Personality Description: Normal villagers are portrayed as sweet and friendly, and they often have an interest in
 reading or cooking.
