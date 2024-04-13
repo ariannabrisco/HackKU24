@@ -4,7 +4,7 @@ Name Note: Chai is a notable drink served at cafés, and Cinnamoroll's place of 
 Description: A peppy elephant based on the Cinnamoroll franchise
 Sanrio Character: Cinnamoroll
 Personality: Peppy
-Personality Description: eppy villagers are energetic, friendly, and overly excited, allowing them to get along easily
+Personality Description: Preppy villagers are energetic, friendly, and overly excited, allowing them to get along easily
 with many villagers. In New Horizons, peppy villagers will also sometimes say "très" (French for "very") in their
 dialogue, and tend to be excited on days when K.K. Slider appears on the island. They also love to talk about becoming
 a recording star, saying phrases like "Want to practice being pop stars together?".
