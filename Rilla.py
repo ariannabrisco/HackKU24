@@ -12,7 +12,7 @@ Species: Gorilla
 Gender: Female
 Birthday: November 1
 Catchphrase: "hello"
-Hobbies: Nature
+Hobby: Nature
 Activities: May be found reading a book pertaining to an item she is studying, which can be either flowers, bugs,
 or fossils.
 Favorite Styles: Cute, Elegant

@@ -10,7 +10,7 @@ Species: Sheep
 Gender: Female
 Birthday: December 25
 Catchphrase: "fuzzy"
-Hobbies: Music
+Hobby: Music
 Activities: May sing anywhere without the need of a stereo
 Favorite Styles: Cute, Gorgeous
 Favorite Colors: Aqua, Pink
