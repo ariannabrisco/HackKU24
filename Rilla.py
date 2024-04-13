@@ -1,5 +1,6 @@
 """
 Name: Rilla
+Name Note: Last four letters of species (gorilla)
 Description: A peppy gorilla based on the Hello Kitty franchise
 Sanrio Character: Hello Kitty
 Personality: Peppy
