@@ -9,6 +9,10 @@
 }
 
 body {
+    font-family: ui-rounded, sans-serif;
+    line-height: 1.6;
+    color: #000000;
+    padding: 20px;
     /* Set background image */
     background-image: url('Photos/Sanrio Villagers.jpg');
     /* Set background size and positioning */
