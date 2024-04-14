@@ -1,0 +1,56 @@
+:root {
+    --kitty: #e90d2f;
+    --pompom: #f6f2af;
+    --twins: #c3b1e1;
+    --cinna: #b0daec;
+    --mymel: #ffa0ce;
+    --kerro: #86c66c;
+    ;
+}
+
+body {
+    /* Set background image */
+    background-image: url('Photos/Sanrio Villagers.jpg');
+    /* Set background size and positioning */
+    background-size: cover; /* Cover the entire viewport */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; /* Center the image horizontally and vertically */
+    /* Optionally, add a background color as fallback */
+    background-color: #b0daec; /* Fallback color if the image is not loaded or visible */
+}
+
+header {
+    background-color: rgba(0,0,0,0);
+    color: rgb(0,0,0);
+    padding: 15px 20px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: rgb(0,0,0);
+    text-decoration: none;
+}
+
+#main-content {
+    padding: 20px;
+    background-color: rgba(0,0,0,0);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: rgba(0,0,0,0);
+    color: rgb(0,0,0);
+}
