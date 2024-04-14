@@ -16,7 +16,7 @@ outside Resident Services during a scripted activity with a group of villagers.
 Favorite Styles: Cute and Elegant
 Favorite Colors: Brown and Yellow
 Default Clothing: Pompompurin tee
-Music: My Place and K.K. Polka
+Music: My Place
 Furniture:
 - Pompompurin bed
 - Pompompurin chair
