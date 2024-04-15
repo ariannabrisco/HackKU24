@@ -13,3 +13,5 @@ Color Palette:
 #b0daec - Chai & Cinnamoroll
 #ffa0ce - Chelsea & My Melody
 #86c66c - Toby & Keroppi
+
+MVC, flask, models, django
